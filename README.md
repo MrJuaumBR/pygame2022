@@ -1,5 +1,5 @@
 <h1>Aula de Pygame</h1>
-<h5>Ano de: 2022, Total de: 4 aulas</h5>
+<h5>Ano de: 2022, Total de: 5 aulas</h5>
 
 # ➡Programas utilizados⬅
 
