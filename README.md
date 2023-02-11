@@ -2,8 +2,9 @@
 <h5>Ano de: 2022, Total de: 5 aulas</h5>
 
 # ➡Programas utilizados⬅
-
-  <a href="https://pypi.org/project/pygame/" target="_blank">pip install pygame</a>
+```
+  pip install pygame
+```
 
 # 🔗Links🔗
 <a href="https://www.youtube.com/watch?v=hZZcO57HnYc&list=PLxKNn542PVMYbo4UFUcdp4OLvN02HiTs9" target="_blank">Playlist</a><br>
